@@ -2786,7 +2786,10 @@ span.font {
 }
 /*--//responsive--*/
 
-
+body .text-yellow {
+    color: rgb(245, 245, 24);
+    
+}
 
 
 
