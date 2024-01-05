@@ -1418,6 +1418,12 @@ ol {
 .text-desc h5 {
     margin-top: 1em;
 }
+.services span{
+    color: white;
+}
+.services p{
+    color: white;
+}
 /* effect-7 css end */
 /*-- //Codes --*/
 /*-- contact --*/
@@ -2786,6 +2792,10 @@ span.font {
 }
 /*--//responsive--*/
 
+body .service-inn h4{
+    font-weight: bold;
+}
+
 body .text-yellow {
     color: rgb(245, 245, 24);
     
@@ -2803,7 +2813,7 @@ body .text-yellow {
     overflow: hidden;
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added line for small shadow border */
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
   }
 
   .team-member-card:hover {
