@@ -924,7 +924,7 @@ text-transform: uppercase;
     letter-spacing: 2px;
     color: #000;
     line-height: 33px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
 .client-img {
     padding: 2em 11em 0em 0em;
